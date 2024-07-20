@@ -2,7 +2,7 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
-Live Demo Link: []()
+Live Demo Link: [https://roc8careers-conway-game-of-life.vercel.app/](https://roc8careers-conway-game-of-life.vercel.app/)
 
 This project is a simple Frontend application. It demonstrates the implementation of John Conway's Game of Life Algorithm. This is 1 of 2 Questions given to me as Roc8 Moonshot. The Question is as follows:
 
@@ -27,7 +27,7 @@ git clone https://github.com/DeeptaraghRoy/roc8careers-conway-game-of-life.git
 ## Navigate into the project directory:
 
 ```bash
-cd 
+cd roc8careers-conway-game-of-life
 ```
 
 ## Install the project dependencies:
